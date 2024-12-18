@@ -1,0 +1,10 @@
+Create folder react practical 
+Open with vs code 
+Open new terminal
+Write npx create-react-app flie name
+Now 
+Cd flie name 
+npm start 
+Now open Browser react 
+Going to  vs code open src file click on app. Js 
+Now ctrl+s and refresh the Browser and see this output
